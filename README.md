@@ -74,8 +74,6 @@ permit ip any any
 ## Summary
 This project demonstrates a fully configured network with VLANs, Inter-VLAN Routing, HSRP, EtherChannel, DHCP, OSPF, ACLs, NAT, Port Security, Syslog, and NTP. Ready for Packet Tracer simulation with failover and network verification testing.
 
-## Topology Diagram
-*(Add network topology image here)*
 
 ## Verification Commands
 - `show vlan brief`
